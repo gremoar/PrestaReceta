@@ -147,6 +147,7 @@ section{
     list-style: none;
     display: flex;
 }
+
 @media screen and (max-width: 1400px ){
     .container  {
         max-width: 1320px !important;
@@ -188,9 +189,7 @@ section{
         width: 750px;  
         margin-left: 60px;
     }
-    #Productos{
-        width: 50%;
-    }
+    
 }
 
 @media screen and (max-width: 991px){
@@ -236,6 +235,7 @@ section{
     .TextVid {
         margin-left: 130px;
     }
+   
 }
 @media screen and (max-width: 576px){
     .container {
