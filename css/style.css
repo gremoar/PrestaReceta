@@ -185,8 +185,8 @@ section{
         width: 80%;
     }
     .GaleriaTotal{
-        width: 800px;  
-        margin-left: 50px;
+        width: 750px;  
+        margin-left: 60px;
     }
     #Productos{
         width: 50%;
@@ -227,11 +227,11 @@ section{
     }
     .GaleriaTotal{
         width: 500px;  
-        margin-left: 35px;
+        margin-left: 100px;
     }
     .VideoTam{
         width: 550px;
-        margin-left: 15px;
+        margin-left: 60px;
     }
     .TextVid {
         margin-left: 130px;
